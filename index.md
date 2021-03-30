@@ -67,6 +67,10 @@
 ![Head](https://user-images.githubusercontent.com/81570110/112924678-28e71000-9143-11eb-9bd1-b89bc04acac2.jpg)
 
 
+![微信图片_20201028162131](https://user-images.githubusercontent.com/81570110/112926602-4073c800-9146-11eb-89ac-ad53d5d13662.jpg)
+![微信图片_20201028162138](https://user-images.githubusercontent.com/81570110/112926609-44074f00-9146-11eb-90b8-728d6f24ab9f.jpg)
+![1D05AAD6C875519A21F55C3652F_A52333C8_6F5A](https://user-images.githubusercontent.com/81570110/112926624-48336c80-9146-11eb-94cd-960e5beea9fe.jpg)
+
 
 
 ### 部分毕业生去向：
