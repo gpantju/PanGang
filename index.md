@@ -22,7 +22,7 @@
 **我每年有若干研究生名额，欢迎有意从事相关领域的各年级本科生、研究生加入我的团队！**
 
 
-## 发表的部分论文:
+### 发表的部分论文:
 [1] Yijing Mei, Xiaojie Guo, Gang Pan(corresponding author), "Deep Supervised Image Retargeting", ICME, 2021.(CCF B)
 
 [2] Wenxu Li, Gang Pan(corresponding author), etc. "From Coarse to Fine: Hierarchical Structure-Aware Video Summarization", ICPR w, 2021.
@@ -62,14 +62,14 @@
 [19] Zhang Jiawan, Pan Gang. "A locatable zero watermarking scheme and visualization for 3D mesh models." Proceedings of the Sixth International Conference on Computer Graphics, Imaging and Visualization. 2009.
 
 
-## 我们的团队:
+### 我们的团队:
 
 ![Head](https://user-images.githubusercontent.com/81570110/112924678-28e71000-9143-11eb-9bd1-b89bc04acac2.jpg)
 
 
 
 
-## 部分毕业生去向：
+### 部分毕业生去向：
 
 21届硕 18届本 郑耀先 腾讯 （ 研究生国奖）         
 
@@ -105,49 +105,11 @@
 
 17届本 郭松 农行软开
 
+
 ### 实验室大门对有志从事相关领域研究的优秀同学打开！
+
 
 ### I am a slow walker, but I never walk backwards.
 
+
 ### Last updated at 2021.1
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/gpantju/homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gpantju/homepage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
